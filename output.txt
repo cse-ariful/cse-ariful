@@ -1,0 +1,51 @@
+Ariful Jannat Arif 
+        <div class='header'>
+        <img class="iconImage" src="images/video_compressor/icon.jpg" />
+        <h1 style="margin-left:12px;margin-top:40px;text-align:center;cursor:pointer;">
+            <a>Video Compressor</a>
+        </h1>
+        </div>
+        <div class="keys">
+        <p>👉 <b>4.8444443+</b> User ratings</p>
+        <p>👉 <b>1,000,000++</b> installs</p>
+        </div>
+        <div style="display:flex;gap:5px;justify-content:space-around;">
+          <img class="ss-image" src="images/video_compressor/img_0.jpg" />
+<img class="ss-image" src="images/video_compressor/img_1.jpg" />
+<img class="ss-image" src="images/video_compressor/img_2.jpg" />
+<img class="ss-image" src="images/video_compressor/img_3.jpg" />
+<img class="ss-image" src="images/video_compressor/img_4.jpg" />
+<img class="ss-image" src="images/video_compressor/img_5.jpg" />
+<img class="ss-image" src="images/video_compressor/img_6.jpg" />
+
+        </div>
+        <p class='short-description'>
+            Compress Video without quality loss. Convert Video, Change resolution & Bitrate
+        </p>
+        <hr> 
+         
+        <div class='header'>
+        <img class="iconImage" src="images/video_merger/icon.jpg" />
+        <h1 style="margin-left:12px;margin-top:40px;text-align:center;cursor:pointer;">
+            <a>Video Merger</a>
+        </h1>
+        </div>
+        <div class="keys">
+        <p>👉 <b>4.64+</b> User ratings</p>
+        <p>👉 <b>500,000++</b> installs</p>
+        </div>
+        <div style="display:flex;gap:5px;justify-content:space-around;">
+          <img class="ss-image" src="images/video_merger/img_0.jpg" />
+<img class="ss-image" src="images/video_merger/img_1.jpg" />
+<img class="ss-image" src="images/video_merger/img_2.jpg" />
+<img class="ss-image" src="images/video_merger/img_3.jpg" />
+<img class="ss-image" src="images/video_merger/img_4.jpg" />
+<img class="ss-image" src="images/video_merger/img_5.jpg" />
+<img class="ss-image" src="images/video_merger/img_6.jpg" />
+
+        </div>
+        <p class='short-description'>
+            Compress Video without quality loss. Convert Video, Change resolution & Bitrate
+        </p>
+        <hr> 
+        
