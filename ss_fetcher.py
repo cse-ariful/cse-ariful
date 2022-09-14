@@ -15,6 +15,11 @@ apps_data = [
         "package": "com.shatkora.app"
     },
     {
+        "title": "Video Editor",
+        'output_folder': 'video_editor',
+        "package": "com.inverseai.video_editor"
+    },
+    {
         "title": "Video Compressor",
         'output_folder': 'video_compressor',
         "package": "com.video_converter.video_compressor"
