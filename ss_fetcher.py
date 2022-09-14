@@ -51,114 +51,22 @@ def append_content_to_file(file, content, clear=False):
         myfile.write(content)
 
 
-def get_style_content():
-    content = ''' 
-     <style>
-        .appContainer {
-            padding: 12px;
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-            transition: 0.3s;
-            margin-left: auto;
-            margin-right: auto;
-            border-radius: 8px;
-            max-width: 1200px;
-            margin-top: 16px;
-        }
-
-        .header {
-            display: flex;
-            width: 100%;
-            padding: 0;
-            text-align: center;
-            margin: 12px
-        }
-
-        .iconImage {
-            border-radius: 5px;
-            width: 100px;
-            height: 100px;
-        }
-
-        .ss-container {
-            display: flex;
-            gap: 5px;
-            margin: 0 20px;
-            width: 100%;
-            flex-direction: row;
-            justify-content: space-around;
-        }
-
-        .img-container {
-            flex: 1;
-            width: 100px;
-            border-radius: 5px;
-            transition: all 0.5s ease-in-out;
-        }
-
-        .ss-image {
-            width: 100%;
-            border-radius: 5px;
-            overflow: hidden;
-
-        }
-
-        .img-container:hover {
-            transform: scale(2.0);
-            z-index: 4;
-        }
-
-        .keys {
-            margin: 12px 0;
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
-        }
-
-        .keys p {
-            font-size: 16px;
-        }
-
-        .short-description {
-            opacity: 0.6;
-            font-size: 16px;
-            margin: 12px 0;
-        }
-    </style>
-    '''
-    return content
-
-
 def generate_app_section(title, icon, rating, download, screenshots, short_description):
     img_content = ""
     for ss in screenshots:
         img_content = img_content + \
-            f"""
-             <div class="img-container">
-                <img class="ss-image" src="{ss}"/>
-            </div>\n
-             """
+            f"""<img src="{ss}" width="150"/>  """
     content = f"""
-        <div class="appContainer">
-            <div class='header'>
-                <img class="iconImage" src={icon} />
-                <h1 style="margin-left:12px;margin-top:40px;text-align:center;cursor:pointer;">
-                    <a>{title}</a>
-                </h1>
-            </div>
-            <div class='info'>
-                <div class="keys">
-                    <p>👉 <b>{rating}</b> User ratings</p>
-                    <p>👉 <b>{download}+</b> installs</p>
-                </div>
-                <div style="display:flex;gap:5px;justify-content:space-around;">
-                    {img_content}
-                </div>
-                <p class='short-description'>
-                    {short_description}
-                </p>
-            </div>
-            </div> 
-    """
+<img class="iconImage" src="{icon}" style="border-radius: 5px;width: 100px;height: 100px;">
+<h1>{title}</h1>
+ <p style="font-size: 16px;">👉 <b>{rating}</b> User ratings</p>
+<p style="font-size: 16px;">👉 <b>{download}</b> installs</p>
+<p>{short_description}</p> 
+
+{img_content}
+__________________________________________________________________________________________
+<br> 
+"""
     return content
 
 
@@ -167,7 +75,7 @@ def get_app_details(data):
                                 data['screenshots'], data['short_description'])
 
 
-destination = "test.html"
+destination = "test.md"
 append_content_to_file(destination, "", True)
 jsonData = {
     'apps': []
@@ -221,7 +129,7 @@ for entry in apps_data:
 
     print(f"End updating app {title} saved in {output_folder}")
 # append the styles
-append_content_to_file(destination, get_style_content(), False)
+# append_content_to_file(destination, get_style_content(), False)
 append_content_to_file("portfolio.json", json.dumps(jsonData), True)
 # with open('scapper_output.json', 'w', encoding='utf-8') as f:
 #     json.dump(result, f, ensure_ascii=False, indent=4)
