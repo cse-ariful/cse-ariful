@@ -1,3 +1,63 @@
+# Hey there, I am Ariful Jannat Arif 
+
+#### Online judge
+![GitHub followers](https://img.shields.io/github/followers/cse-ariful?color=informational&label=follower%20on%20github&logo=github&logoColor=black&style=for-the-badge)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ariful_lu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-dec03a?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/__arif/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12687103/ariful-jannat-arif)
+[![LightOj](https://img.shields.io/badge/-lightoj-965f9c?style=for-the-badge&logo=HackerRank&logoColor=white)](https://lightoj.com/user/mjarif97)
+[![UriOnlineJudge](https://img.shields.io/badge/-UriOnlineJudge-96903b?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/154558)
+ 
+#### Social Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cse-ariful/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdarifuljannat)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/@arifuljannat/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arifuljannatarif)
+<br>
+---
+<br>
+
+### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cse-ariful.readme)
+
+<p>
+
+I am on the way to parsue my dream. Currently learning about fullstack development(MERN).I am passionate about programming, writing, learning, and solving new problems.
+As an Information technology student and a technology freak, I enjoy using my passion in real-world scenarios, making things that can make an impact and change the world.
+</p>
+
+<br>
+
+**About current status**
+- 📖 Completed Graduation in Computer science in 2020
+- 🧑‍💻 Working on some cool project targetting to launch in 2024
+- 📈 Continuously learning new & unique stuff
+- 💬 Feel free to contact me - I am happy to help
+- 📬 Reach me: cse.ariful@gmail.com
+
+---
+
+### 📊 My Github Stats:
+<div>
+<a href="https://github.com/cse-ariful">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cse-ariful&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue" />
+</a>
+<a href="https://github.com/cse-ariful">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cse-ariful&" alt="cse-ariful" />
+</a>
+</div>
+
+<br>
+---
+
+### 💻 Technology Stack:
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  
+
+</p>
+
+
+ ---
+
+<br> 
 <h3>Apps That I worked on while working in  <a href="https://inverseai.com/" target="_blank">Inverse.ai</a></h3>
 <br>
 <br>
