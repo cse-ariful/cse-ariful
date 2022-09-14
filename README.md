@@ -5,7 +5,7 @@
 <p style="font-size: 16px;">👉 <b>10,000,000+</b> installs</p>
 <p>Batch Convert, Compress Video to MP4, MP3, 3GP, MKV, AVI, MOV, MTS, WMV, VOB,AAC</p> 
 
-<img src="images/video_converter/img_1.jpg" width="150"/>  <img src="images/video_converter/img_2.jpg" width="150"/>  <img src="images/video_converter/img_3.jpg" width="150"/>  <img src="images/video_converter/img_4.jpg" width="150"/>  <img src="images/video_converter/img_5.jpg" width="150"/>  <img src="images/video_converter/img_6.jpg" width="150"/>  <img src="images/video_converter/img_7.jpg" width="150"/>  
+<img src="images/video_converter/img_0.jpg" width="150"/>  <img src="images/video_converter/img_1.jpg" width="150"/>  <img src="images/video_converter/img_2.jpg" width="150"/>  <img src="images/video_converter/img_3.jpg" width="150"/>  <img src="images/video_converter/img_4.jpg" width="150"/>  <img src="images/video_converter/img_5.jpg" width="150"/>  <img src="images/video_converter/img_6.jpg" width="150"/>  <img src="images/video_converter/img_7.jpg" width="150"/>  
 __________________________________________________________________________________________
 <br> 
 
@@ -16,6 +16,16 @@ ________________________________________________________________________________
 <p>Get the best offer and discounts on Grocery, Baby care, cosmetics etc shopping.</p> 
 
 <img src="images/shatkora/img_0.jpg" width="150"/>  <img src="images/shatkora/img_1.jpg" width="150"/>  <img src="images/shatkora/img_2.jpg" width="150"/>  <img src="images/shatkora/img_3.jpg" width="150"/>  <img src="images/shatkora/img_4.jpg" width="150"/>  
+__________________________________________________________________________________________
+<br> 
+
+<img class="iconImage" src="images/video_editor/icon.jpg" style="border-radius: 5px;width: 100px;height: 100px;">
+<h1>Video Editor</h1>
+ <p style="font-size: 16px;">👉 <b>4.6857142</b> User ratings</p>
+<p style="font-size: 16px;">👉 <b>50,000+</b> installs</p>
+<p>Cut, Trim, Crop any format of video. Apply Filters, add Texts with video editor.</p> 
+
+<img src="images/video_editor/img_0.jpg" width="150"/>  <img src="images/video_editor/img_1.jpg" width="150"/>  <img src="images/video_editor/img_2.jpg" width="150"/>  <img src="images/video_editor/img_3.jpg" width="150"/>  <img src="images/video_editor/img_4.jpg" width="150"/>  <img src="images/video_editor/img_5.jpg" width="150"/>  <img src="images/video_editor/img_6.jpg" width="150"/>  
 __________________________________________________________________________________________
 <br> 
 
