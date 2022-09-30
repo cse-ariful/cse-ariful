@@ -34,12 +34,6 @@ As an Information technology student and a technology freak, I enjoy using my pa
 - 📬 Reach me: cse.ariful@gmail.com
 ---
 
-### 💻 Technology Stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="Android" width="80" height="80"/> 
-<br> 
-
----
-
 ### 📬 Professional Experience
 
 <details>
@@ -70,6 +64,12 @@ As an Information technology student and a technology freak, I enjoy using my pa
 - Fixing crucial bugs and issues
 - Improving legacy app artichectures and features
 </details>  
+
+---
+
+### 💻 Technology Stack:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="Android" width="80" height="80"/> 
+<br> 
 
 ---
 
