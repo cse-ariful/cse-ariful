@@ -13,11 +13,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/@arifuljannat/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arifuljannatarif)
 <br>
----
-<br>
-<h1>
-[Visit My PortFolio](https://cse-ariful.github.io/) 
-</h1>
+--- 
 <br>
 
 ### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cse-ariful.readme)
