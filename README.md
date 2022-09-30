@@ -1,6 +1,5 @@
 # Hey there, I am Ariful Jannat Arif   
 #### Online judge
-![GitHub followers](https://img.shields.io/github/followers/cse-ariful?color=informational&label=follower%20on%20github&logo=github&logoColor=black&style=for-the-badge)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ariful_lu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-dec03a?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/__arif/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12687103/ariful-jannat-arif)
