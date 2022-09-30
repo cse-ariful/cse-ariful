@@ -15,10 +15,6 @@
 <br>
 ---
 <br>
-<h1>
-[Visit My PortFolio](https://cse-ariful.github.io/) 
-</h1>
-<br>
 
 ### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cse-ariful.readme)
 
@@ -36,6 +32,43 @@ As an Information technology student and a technology freak, I enjoy using my pa
 - 📈 Continuously learning new & unique stuff
 - 💬 Feel free to contact me - I am happy to help
 - 📬 Reach me: cse.ariful@gmail.com
+---
+
+### 💻 Technology Stack:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="Android" width="80" height="80"/> 
+<br> 
+---
+
+### Professional Experience
+
+<details>
+<summary><h4>Lead Mobile Application Developer<h4> <sub>August,2021 - August,2022 Inverse.ai</sub></summary>
+
+- Responsible for implementing new solutions, feature-sets and maintaining existing applications for Android.
+- Accountable for successful delivery and implementation of complex enterprise-scale mobile application projects involving the latest technology.
+- Planning team sprint and successful execution of monthly and weekly targets.
+- Investigating the app analytics to improve the user experience and adding new features.
+- Designing app architecture for new apps.
+- Modularization of project features to increase reusablity.
+</details>
+
+<details>
+<summary><h4>Software Engineer<h4>  <sub>August,2020 - July,2021 Inverse.ai</sub></summary>
+
+- Development of new apps
+- Maintaining other apps that are in production
+- Fixing crucial bugs and issues
+- Improving legacy app artichectures and features
+</details>
+
+<details>
+<summary><h4>Junior Software Engineer<h4> <sub>January,2020 - July,2020 Inverse.ai</sub></summary>
+
+- Development of new apps
+- Maintaining other apps that are in production
+- Fixing crucial bugs and issues
+- Improving legacy app artichectures and features
+</details>  
 
 ---
 
@@ -51,10 +84,6 @@ As an Information technology student and a technology freak, I enjoy using my pa
 
 <br>
 ---
-
-### 💻 Technology Stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="Android" width="80" height="80"/> 
-
 
 </p>
 
