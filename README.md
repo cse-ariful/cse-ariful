@@ -39,7 +39,7 @@ As an Information technology student and a technology freak, I enjoy using my pa
   
  ---
 
-### 📊 My Github Stats:
+<!--### 📊 My Github Stats:
 <div>
 <a href="https://github.com/cse-ariful">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cse-ariful&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue" />
@@ -49,9 +49,9 @@ As an Information technology student and a technology freak, I enjoy using my pa
 </a>
 </div>
 
-<br>
+<br> 
 ---
-
+ -->
 <!-- <br> 
 <h3>Apps That I worked on while working in  <a href="https://inverseai.com/" target="_blank">Inverse.ai</a></h3>
 <br>
