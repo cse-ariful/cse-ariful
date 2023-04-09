@@ -29,15 +29,19 @@ As an Information technology student and a technology freak, I enjoy using my pa
 - 📖 Completed Graduation in Computer science in 2020
 - 🧑‍💻 Working on some cool project targetting to launch in 2024
 - 📈 Continuously learning new & unique stuff
+- App architecture and Best practices (MVI,MVVM,Clean-Architecture)
+- Mastering Espresso,JUnit and CI/CD
 - 💬 Feel free to contact me - I am happy to help
 - 📬 Reach me: cse.ariful@gmail.com
 
----
+<!-- --- -->
 
 ### 💻 Technology Stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="Android" width="80" height="80"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Android" width="80" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="Android" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="80" height="80" alt="swift"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="80" height="80" alt="JavaScript"/>
+          
+          
   
- ---
+<!--  --- -->
 
 <!--### 📊 My Github Stats:
 <div>
