@@ -17,21 +17,19 @@
 
 ### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cse-ariful.readme)
 
-<p>
+ 
 
-I am on the way to parsue my dream. Currently learning about fullstack development(MERN).I am passionate about programming, writing, learning, and solving new problems.
-As an Information technology student and a technology freak, I enjoy using my passion in real-world scenarios, making things that can make an impact and change the world.
-</p>
+🚀 **Software Engineer (iOS | Android | Flutter)** with 6+ years of experience building scalable, high-impact mobile applications.
 
-<br>
+At **Enosis Solutions**, I lead mobile innovation — mentoring teams on integrating **AI** into development workflows while keeping **human-level code quality**.  
 
-**About current status**
-- 📖 Completed Graduation in Computer science in 2020
-- 🧑‍💻 Working on some cool project targetting to launch in 2024
-- 📈 Continuously learning new & unique stuff
-- App architecture and Best practices (MVI,MVVM,Clean-Architecture)
-- Mastering Espresso,JUnit and CI/CD
-- 💬 Feel free to contact me - I am happy to help
+💡 I specialize in:
+- Swift, Kotlin & Flutter  
+- Clean Architecture & Performance Optimization  
+- Delivering 99.98% crash-free apps and 35% faster releases  
+
+I'm passionate about empowering teams to transform complex challenges into **elegant, user-centric products**.
+<br> 
 - 📬 Reach me: cse.ariful@gmail.com
 
 <!-- --- -->
